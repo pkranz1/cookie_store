@@ -1,1 +1,63 @@
+html {
+    box-sizing: border-box;
+}
+.cookies {
+    padding-bottom: 15px;
+}
+.jumbotron-fluid {
+    background-image: url("../img/milkbg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 
+.col.cookie-store {
+    background-color: black;
+    color: white;
+    width: 50%
+}
+
+.col.the-cookies {
+    padding-top: 10px;
+}
+.col.about-us {
+    padding-top: 20px;
+}
+.row.the-cookies {
+    padding-bottom: 10px;
+}
+
+.four-cookies {
+    padding-bottom: 20px;
+}
+
+.about-us {
+    background-color: rgb(180, 180, 180);
+    color: black;
+}
+
+.contact-us {
+    background-color: rgb(0, 170, 212);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cookie-monster {
+    padding-right:10px;
+    padding-bottom: 20px;
+    float: left;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container-fluid.col.cookie-store {
+    position: relative;
+    text-align: center;
+    color: white;
+}
