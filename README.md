@@ -26,16 +26,3 @@
 5. **Stretch** Add a custom google font to our page:
     - Select and link a font from: https://fonts.google.com/
     - Add the font style to select tags
-
-## Project 2: Build a personal (professional) web page for yourself
-
-- Build a personal (professional) web page. Follow the following criteria
-    * Use HTML5, CSS, Bootstrap
-        - You can use existing themes (i.e. http://bootswatch.com/)
-    * For the content:
-        - Introduce yourself
-        - Post projects you have done
-        - Education/Professional Experience, Relevant Skills
-        - List any technology or blog links you recommend
-        - Include at least one image (project related, you, or related picture)
-        - _Optional:_ Post a "blog" entry about a technology you have used, or school topic
